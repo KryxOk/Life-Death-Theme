@@ -1,0 +1,40 @@
+/**
+* @name Life-Death-theme
+* @version 1.2
+* @description A Simple Theme made By : KryxOk
+* @author K r y x#5784
+* @invite 
+* @Source https://github.com/KryxOk/Life-Death-Theme
+* @website https://github.com/KryxOk/Life-Death-Theme
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+:root {
+--background-image: url('https://i.imgur.com/GYl0877.png');
+--background-image-blur: 1px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://i.imgur.com/EDznUCm.png');
+--popout-modal-blur: 1px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-image: url('https://discordstyles.github.io/FrostedGlass/assets/discord.svg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 0.65;
+--left-brightness: 0.65;
+--middle-brightness: 0.6;
+--right-brightness: 0;
+--popout-modal-brightness: 0.75;
+--gradient-primary: 224,224,224;
+--gradient-secondary: 0,0,0;
+--gradient-direction: 106deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 10px;
+--window-roundness: 14px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: block;
+--font: 'Whitney';
+--update-notice-1: none;
+}
